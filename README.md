@@ -17,7 +17,7 @@
 - <code><b>Motto: Learn to earn, earn to learn</b></code>
  
 
-### Languages 
+### Languages and Tools:
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code> 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code> 
