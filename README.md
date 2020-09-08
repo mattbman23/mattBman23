@@ -5,7 +5,7 @@
 <a href="https://youtube.com/channel/UCxXdfk-udlBrLJji8nBipMg"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-mrbudiman-blue?style=flat-square&logo=youtube"></a>
 <a href="mailto:mattbud2011@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mattbud2011@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
----
+
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LHZyixOnHwDDy/source.gif" />
 
 ### I'm Matthew Budiman
