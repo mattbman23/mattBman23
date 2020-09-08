@@ -6,7 +6,7 @@
 <a href="mailto:mattbud2011@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mattbud2011@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 ---
-<img align="right" alt="GIF" src="https://giphy.com/gifs/computer-working-cat-LHZyixOnHwDDy" />
+<iframe src="https://giphy.com/embed/LHZyixOnHwDDy" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ### I'm Matthew Budiman
 
