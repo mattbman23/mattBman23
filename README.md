@@ -17,7 +17,7 @@
 
 ### Languages 
 
-<br>
+<br><br>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code> 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code> 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code> 
@@ -27,7 +27,7 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code> 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git/git-ar21.svg"></code> 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code> 
-<br>
+<br><br>
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
