@@ -14,7 +14,7 @@
 - 🙂 Learning whatever is interesting :) 
 - 💬 My goal is to be the jack of all trade in IT.  
 - ⚡ Fun fact: Loves classical 🎵 and heavy metal 🤘 music
-
+- <code><b>Motto: Learn to earn, earn to learn</b></code>
  
 
 <br><br>
