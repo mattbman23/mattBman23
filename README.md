@@ -15,11 +15,11 @@
 - 💬 My goal is to be the jack of all trade in IT.  
 - ⚡ Fun fact: Loves classical 🎵 and heavy metal 🤘 music
 
+<br>
 ### Languages 
-
-<br><br>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code> 
+<br>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code> 
+<code><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code> 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code> 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code> 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code> 
