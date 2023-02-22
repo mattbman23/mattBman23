@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://mbudiman.com"><img alt="Website" src="https://img.shields.io/badge/Website-www.mbudiman.com-blue?style=flat-square&logo=google-chrome"></a> 
 <a href="https://youtube.com/channel/UCxXdfk-udlBrLJji8nBipMg"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-mrbudiman-blue?style=flat-square&logo=youtube"></a>
-<a href="mailto:mattbud2011@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mattbud2011@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:matthewbnw@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mattbud2011@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LHZyixOnHwDDy/source.gif" />
@@ -32,7 +32,3 @@
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>Let's talk code!</b> 😊</em>
-
-
-
-⭐️ From [Matthew](https://github.com/mattBman23)
